@@ -14,7 +14,7 @@ You can start running the program through the `GUIMediator` class in the `projec
 
 The files such as `100rt.pexe` are supposed to run with a run-time exception and should pop up a DialogMessage.
 
-### Here are the errors reported by our program. You may find some other errors or skip some and you may be giving different messages.
+### Here are the intentional errors reported by our program. You may find some other errors or skip some and you may be giving different messages.
 
 ```
 03e.pasm has one or more errors
