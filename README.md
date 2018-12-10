@@ -10,7 +10,7 @@ Project was originally inspired by a project called Pippin from pp.210-214 of "T
 
 ### Running and Testing
 
-You can start running the program through the `GUIMediator` class in the `project` package and testing the correct and incorrect programs.
+You can start running the program through the `GUIMediator` class in the `project view`  package and testing the correct and incorrect programs.
 
 The files such as `100rt.pexe` are supposed to run with a run-time exception and should pop up a DialogMessage.
 
